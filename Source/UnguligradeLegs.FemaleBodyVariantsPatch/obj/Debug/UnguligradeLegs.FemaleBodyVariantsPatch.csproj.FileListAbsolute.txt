@@ -1,0 +1,4 @@
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\UnguligradeLegs.FemaleBodyVariantsPatch\1.6\Assemblies\UnguligradeLegs.FemaleBodyVariantsPatch.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\UnguligradeLegs.FemaleBodyVariantsPatch\Source\UnguligradeLegs.FemaleBodyVariantsPatch\obj\Debug\UnguligradeLegs.FemaleBodyVariantsPatch.csproj.AssemblyReference.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\UnguligradeLegs.FemaleBodyVariantsPatch\Source\UnguligradeLegs.FemaleBodyVariantsPatch\obj\Debug\UnguligradeLegs.FemaleBodyVariantsPatch.csproj.CoreCompileInputs.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\UnguligradeLegs.FemaleBodyVariantsPatch\Source\UnguligradeLegs.FemaleBodyVariantsPatch\obj\Debug\UnguligradeLegs.FemaleBodyVariantsPatch.dll
