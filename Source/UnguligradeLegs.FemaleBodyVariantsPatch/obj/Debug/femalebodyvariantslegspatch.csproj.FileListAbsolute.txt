@@ -1,0 +1,4 @@
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Female Body Varients Fur Legs Patch\1.6\Assemblies\femalebodyvariantslegspatch.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Female Body Varients Fur Legs Patch\Source\UnguligradeLegs.FemaleBodyVariantsPatch\obj\Debug\femalebodyvariantslegspatch.csproj.AssemblyReference.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Female Body Varients Fur Legs Patch\Source\UnguligradeLegs.FemaleBodyVariantsPatch\obj\Debug\femalebodyvariantslegspatch.csproj.CoreCompileInputs.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Female Body Varients Fur Legs Patch\Source\UnguligradeLegs.FemaleBodyVariantsPatch\obj\Debug\femalebodyvariantslegspatch.dll

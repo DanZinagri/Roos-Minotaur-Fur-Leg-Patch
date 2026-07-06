@@ -1,10 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\UnguligradeLegs.FemaleBodyVariantsPatch\\Source\\UnguligradeLegs.FemaleBodyVariantsPatch\\",
+  "WorkspaceRootPath": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\Female Body Varients Fur Legs Patch\\Source\\UnguligradeLegs.FemaleBodyVariantsPatch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A3F9B62-4D1E-4C7A-9B0A-2F6E8C1D5A3B}|UnguligradeLegs.FemaleBodyVariantsPatch.csproj|e:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\unguligradelegs.femalebodyvariantspatch\\source\\unguligradelegs.femalebodyvariantspatch\\unguligradelegsfemalebodypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A3F9B62-4D1E-4C7A-9B0A-2F6E8C1D5A3B}|UnguligradeLegs.FemaleBodyVariantsPatch.csproj|solutionrelative:unguligradelegsfemalebodypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|femalebodyvariantslegspatch||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3F9B62-4D1E-4C7A-9B0A-2F6E8C1D5A3B}|femalebodyvariantslegspatch.csproj|e:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\female body varients fur legs patch\\source\\unguligradelegs.femalebodyvariantspatch\\femalebodyvariantslegspatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A3F9B62-4D1E-4C7A-9B0A-2F6E8C1D5A3B}|femalebodyvariantslegspatch.csproj|solutionrelative:femalebodyvariantslegspatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A3F9B62-4D1E-4C7A-9B0A-2F6E8C1D5A3B}|femalebodyvariantslegspatch.csproj|e:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\female body varients fur legs patch\\source\\unguligradelegs.femalebodyvariantspatch\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +25,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnguligradeLegsFemaleBodyPatch.cs",
-              "DocumentMoniker": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\UnguligradeLegs.FemaleBodyVariantsPatch\\Source\\UnguligradeLegs.FemaleBodyVariantsPatch\\UnguligradeLegsFemaleBodyPatch.cs",
-              "RelativeDocumentMoniker": "UnguligradeLegsFemaleBodyPatch.cs",
-              "ToolTip": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\UnguligradeLegs.FemaleBodyVariantsPatch\\Source\\UnguligradeLegs.FemaleBodyVariantsPatch\\UnguligradeLegsFemaleBodyPatch.cs",
-              "RelativeToolTip": "UnguligradeLegsFemaleBodyPatch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Title": "femalebodyvariantslegspatch",
+              "DocumentMoniker": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\Female Body Varients Fur Legs Patch\\Source\\UnguligradeLegs.FemaleBodyVariantsPatch\\femalebodyvariantslegspatch.csproj",
+              "RelativeDocumentMoniker": "femalebodyvariantslegspatch.csproj",
+              "ToolTip": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\Female Body Varients Fur Legs Patch\\Source\\UnguligradeLegs.FemaleBodyVariantsPatch\\femalebodyvariantslegspatch.csproj",
+              "RelativeToolTip": "femalebodyvariantslegspatch.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-06T19:34:24.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "femalebodyvariantslegspatch.cs",
+              "DocumentMoniker": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\Female Body Varients Fur Legs Patch\\Source\\UnguligradeLegs.FemaleBodyVariantsPatch\\femalebodyvariantslegspatch.cs",
+              "RelativeDocumentMoniker": "femalebodyvariantslegspatch.cs",
+              "ToolTip": "E:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\Female Body Varients Fur Legs Patch\\Source\\UnguligradeLegs.FemaleBodyVariantsPatch\\femalebodyvariantslegspatch.cs",
+              "RelativeToolTip": "femalebodyvariantslegspatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T19:26:42.893Z",
               "EditorCaption": ""
