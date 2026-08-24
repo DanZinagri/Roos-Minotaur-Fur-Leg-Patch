@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Roo's Minotaur - Female Body Variants Patch</name>
+  <name>Roo's Minotaur - Fur Leg Patch</name>
   <author>DanZinagri</author>
   <packageId>danzinagri.femalebodyvariantslegspatch</packageId>
   <supportedVersions>
@@ -13,11 +13,6 @@
       <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
     </li>
     <li>
-      <packageId>tiagocc0.femalebodyvariants</packageId>
-      <displayName>tiagocc0.femalebodyvariants</displayName>
-      <steamWorkshopUrl>steam://url/CommunityFilePage/3207125987</steamWorkshopUrl>
-    </li>
-    <li>
       <packageId>tug.minotaur</packageId>
       <displayName>Roo's Minotaur Xenotype</displayName>
       <steamWorkshopUrl>steam://url/CommunityFilePage/3548423129</steamWorkshopUrl>
@@ -28,6 +23,7 @@
     <li>tug.Minotaur</li>
     <li>tug.satyr</li>
     <li>tiagocc0.FemaleBodyVariants</li>
+    <li>OskarPotocki.VanillaFactionsExpanded.Core</li>
   </loadAfter>
   <description>Compatibility patch: Roo's Minotaur Xenotype draws the "UnguligradeLegs" fur overlay masked directly against the vanilla (male/unisex) Fat and Hulk body silhouettes, ignoring FemaleBodyVariants' female Fat/Hulk textures. This patch makes the leg overlay's mask follow the same female body path FemaleBodyVariants already resolved for the base body, so the legs match the female Fat/Hulk shape instead of the male one.</description>
 </ModMetaData>

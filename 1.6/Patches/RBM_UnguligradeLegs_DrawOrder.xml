@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+  <!-- The leg overlay and any other body-fur gene both sit at baseLayer 5, so their draw order
+       is arbitrary. Nudge the legs up so they always render on top of a full-body fur. -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/GeneDef[defName="RBM_UnguligradeLegs"]/renderNodeProperties/li/baseLayer</xpath>
+    <value>
+      <baseLayer>5.1</baseLayer>
+    </value>
+  </Operation>
+
+</Patch>
