@@ -94,10 +94,22 @@ namespace danzinagri.femalebodyvariantslegspatch
             return false;
         }
 
-        // Female Body Variants adds _Female textures for Thin/Fat/Hulk; the leg overlay must be
-        // masked against the same silhouette the body node actually resolved.
+        // The leg overlay must be masked against the same silhouette the body is actually drawn
+        // with. Several mods replace that texture by postfixing PawnRenderNode_Body.GraphicFor:
+        // FemaleBodyVariants swaps in "<path>_Female", Sized Apparel (OTYOTY.SizedApparel) swaps in
+        // "<path>_BaseBodyF"/"_BaseBodyM", optionally suffixed with a body variation and with a
+        // "/CustomPose/<pose>" segment spliced in. Rather than reimplement each mod's naming, read
+        // back whatever the body node resolved - the Body node is this fur node's parent, so it is
+        // always initialised first.
         private static string BodyMaskPathFor(Pawn pawn)
         {
+            string drawnBodyPath = pawn.Drawer?.renderer?.renderTree?.BodyGraphic?.path;
+            if (!drawnBodyPath.NullOrEmpty()
+                && ContentFinder<Texture2D>.Get(drawnBodyPath + "_south", false) != null)
+                return drawnBodyPath;
+
+            // Body node not resolved yet, or its texture is missing. Fall back to resolving the
+            // FemaleBodyVariants path by hand.
             string bodyPath = pawn.story.bodyType?.bodyNakedGraphicPath;
             if (bodyPath == null || pawn.gender == Gender.Male || bodyPath.Contains("_Female"))
                 return bodyPath;

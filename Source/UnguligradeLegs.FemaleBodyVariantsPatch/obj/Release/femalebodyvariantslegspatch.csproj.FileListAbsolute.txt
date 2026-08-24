@@ -2,3 +2,7 @@ E:\SteamLibrary\steamapps\common\RimWorld\Mods\Female Body Varients Fur Legs Pat
 E:\SteamLibrary\steamapps\common\RimWorld\Mods\Female Body Varients Fur Legs Patch\Source\UnguligradeLegs.FemaleBodyVariantsPatch\obj\Release\femalebodyvariantslegspatch.csproj.AssemblyReference.cache
 E:\SteamLibrary\steamapps\common\RimWorld\Mods\Female Body Varients Fur Legs Patch\Source\UnguligradeLegs.FemaleBodyVariantsPatch\obj\Release\femalebodyvariantslegspatch.csproj.CoreCompileInputs.cache
 E:\SteamLibrary\steamapps\common\RimWorld\Mods\Female Body Varients Fur Legs Patch\Source\UnguligradeLegs.FemaleBodyVariantsPatch\obj\Release\femalebodyvariantslegspatch.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Roos Minotaur Fur Leg Patch\1.6\Assemblies\femalebodyvariantslegspatch.dll
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Roos Minotaur Fur Leg Patch\Source\UnguligradeLegs.FemaleBodyVariantsPatch\obj\Release\femalebodyvariantslegspatch.csproj.AssemblyReference.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Roos Minotaur Fur Leg Patch\Source\UnguligradeLegs.FemaleBodyVariantsPatch\obj\Release\femalebodyvariantslegspatch.csproj.CoreCompileInputs.cache
+E:\SteamLibrary\steamapps\common\RimWorld\Mods\Roos Minotaur Fur Leg Patch\Source\UnguligradeLegs.FemaleBodyVariantsPatch\obj\Release\femalebodyvariantslegspatch.dll
